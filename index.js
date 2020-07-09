@@ -16,7 +16,7 @@ const teste = (a,b) => {
   }
 
   
-console.log('bonitossss')
+console.log('bonitos')
 const soma = (a,b) =>  a + b 
 
 console.log( soma(2,3))
