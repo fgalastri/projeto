@@ -1,0 +1,5 @@
+
+git remote add origin https://github.com/fgalastri/projeto.git
+git push -u origin master
+
+cade o commit
